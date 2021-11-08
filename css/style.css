@@ -2,13 +2,15 @@
 
 body{
     margin: auto;
-    margin-right: 10%;
+
 }
 
 .container{
     background-color: aqua;
     background-image: url(../img/pattern.png);
     background-size: 30%;
+    margin-left: 22%;
+    margin-right: 22%;
     
 }
 

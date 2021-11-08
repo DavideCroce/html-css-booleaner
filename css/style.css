@@ -12,6 +12,10 @@ body{
     
 }
 
+.the-booleaner{
+    color: aqua;
+}
+
 main{
     margin: 0;
     background-color: #fff;

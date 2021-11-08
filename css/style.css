@@ -94,3 +94,13 @@ b{
     color: #fff;
     margin-top: 8px;
 }
+
+h4, h5{
+    color: grey;
+    margin-top: -20px;
+}
+
+h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+}

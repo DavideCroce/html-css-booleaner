@@ -9,6 +9,12 @@ body{
     
 }
 
+main{
+    margin-left: 5px;
+    background-color: #fff;
+    
+}
+
 .logo{
    width: 20%;
    height: 20%;
@@ -20,5 +26,35 @@ body{
 }
 
 .foto-tim{
-    margin: 5px;
+    margin: 0;
+}
+
+.articolo{
+    margin-right: 20%;
+}
+
+.elenco{
+    margin-left: -20px;
+}
+
+thead{
+    background-color: lightskyblue;
+    
+}
+
+.trazzurro{
+    background-color: lightblue;
+}
+
+.in-evidenza-1{
+    background-color: yellow;
+}
+
+.articolo2{
+    margin-top: 25px;
+}
+
+.adv{
+    color: grey;
+    margin-top: 40px;
 }

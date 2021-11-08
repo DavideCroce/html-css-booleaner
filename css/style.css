@@ -1,0 +1,16 @@
+body{
+    margin: auto;
+}
+
+.container{
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+}
+
+.logo{
+   width: 20%;
+   height: 20%;
+   margin-top: 50px;
+}
+
